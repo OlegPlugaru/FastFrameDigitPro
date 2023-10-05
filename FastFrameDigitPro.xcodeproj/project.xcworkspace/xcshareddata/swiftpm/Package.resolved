@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "jpsvolumebuttonhandler",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jpsim/JPSVolumeButtonHandler.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f0606143c3d9fa687eaed2f7a9ecca0e5960b5a3"
+      }
+    },
+    {
+      "identity" : "speedchecker-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/speedchecker/speedchecker-sdk-ios",
+      "state" : {
+        "revision" : "b9a1e7ca5265902e1c033470a9785471a2cba468",
+        "version" : "1.8.13"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/swiftui-introspect",
+      "state" : {
+        "revision" : "3ced72fccb284235c266c1e8a32f1bf93129fc74",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
